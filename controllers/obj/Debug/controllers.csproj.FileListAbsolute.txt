@@ -1,0 +1,5 @@
+C:\RBI\Employee-Test\controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\RBI\Employee-Test\controllers\bin\Debug\controllers.dll
+C:\RBI\Employee-Test\controllers\bin\Debug\controllers.pdb
+C:\RBI\Employee-Test\controllers\obj\Debug\controllers.dll
+C:\RBI\Employee-Test\controllers\obj\Debug\controllers.pdb

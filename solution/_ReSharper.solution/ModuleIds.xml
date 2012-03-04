@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="E642079B-9F98-4747-8E36-FD1D4CF8A031" ModuleId="presentation" />
+  <Module PersistentId="9A396F49-F220-4BF6-9B95-473B2850066F" ModuleId="controllers" />
+  <Module PersistentId="EA0DFEFB-92DE-48CF-853C-8D073D198EF8" ModuleId="domain" />
+  <Module PersistentId="A5A6A2AF-3349-4ACA-B1ED-EC058DDB2D37" ModuleId="infrastructure" />
+</Modules>

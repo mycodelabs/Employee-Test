@@ -1,0 +1,9 @@
+C:\RBI\Employee-Test\presentation\bin\presentation.dll
+C:\RBI\Employee-Test\presentation\bin\presentation.pdb
+C:\RBI\Employee-Test\presentation\bin\controllers.dll
+C:\RBI\Employee-Test\presentation\bin\EntityFramework.dll
+C:\RBI\Employee-Test\presentation\bin\controllers.pdb
+C:\RBI\Employee-Test\presentation\bin\EntityFramework.xml
+C:\RBI\Employee-Test\presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\RBI\Employee-Test\presentation\obj\Debug\presentation.dll
+C:\RBI\Employee-Test\presentation\obj\Debug\presentation.pdb

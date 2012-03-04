@@ -1,0 +1,50 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:Models/f:AccountModels.cs" caret="2020" fromTop="63" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/f:AccountController.cs" caret="4410" fromTop="22" />
+      <File id="EA0DFEFB-92DE-48CF-853C-8D073D198EF8/f:Employee.cs" caret="46" fromTop="2" />
+      <File id="E642079B-9F98-4747-8E36-FD1D4CF8A031/f:Web.config" caret="618" fromTop="18" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="3262" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/f:AccountController.cs" caret="375" fromTop="20" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/f:AccountController.cs" caret="13" fromTop="0" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/f:AccountController.cs" caret="542" fromTop="25" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:Models/f:AccountModels.cs" caret="0" fromTop="0" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:Models/f:AccountModels.cs" caret="2020" fromTop="63" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/f:AccountController.cs" caret="116" fromTop="5" />
+      <File id="EA0DFEFB-92DE-48CF-853C-8D073D198EF8/f:Employee.cs" caret="46" fromTop="2" />
+      <File id="E642079B-9F98-4747-8E36-FD1D4CF8A031/f:Web.config" caret="2273" fromTop="35" />
+      <File id="E642079B-9F98-4747-8E36-FD1D4CF8A031/f:Web.config" caret="338" fromTop="9" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="595" fromTop="12" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="861" fromTop="21" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="2010" fromTop="34" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="2327" fromTop="34" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="2657" fromTop="34" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="4051" fromTop="34" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="4051" fromTop="34" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="4051" fromTop="23" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="3370" fromTop="6" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="3123" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
