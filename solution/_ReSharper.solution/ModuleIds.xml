@@ -3,4 +3,6 @@
   <Module PersistentId="9A396F49-F220-4BF6-9B95-473B2850066F" ModuleId="controllers" />
   <Module PersistentId="EA0DFEFB-92DE-48CF-853C-8D073D198EF8" ModuleId="domain" />
   <Module PersistentId="A5A6A2AF-3349-4ACA-B1ED-EC058DDB2D37" ModuleId="infrastructure" />
+  <Module PersistentId="2392BCE8-5F54-4A10-9BF0-0C8685659982" ModuleId="tests" />
+  <Module PersistentId="4E64BCAF-E4BE-491C-BEF3-60984FDF3911" ModuleId="tasks" />
 </Modules>

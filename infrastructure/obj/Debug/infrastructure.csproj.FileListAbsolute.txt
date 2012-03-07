@@ -1,0 +1,17 @@
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\infrastructure.dll
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\infrastructure.pdb
+D:\Labs\MVC3\Employee-Test\infrastructure\obj\Debug\infrastructure.csprojResolveAssemblyReference.cache
+D:\Labs\MVC3\Employee-Test\infrastructure\obj\Debug\infrastructure.dll
+D:\Labs\MVC3\Employee-Test\infrastructure\obj\Debug\infrastructure.pdb
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\domain.dll
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\FluentNHibernate.dll
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\Iesi.Collections.dll
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\NHibernate.dll
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\tasks.dll
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\controllers.dll
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\domain.pdb
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\tasks.pdb
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\FluentNHibernate.pdb
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\Iesi.Collections.xml
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\NHibernate.xml
+D:\Labs\MVC3\Employee-Test\infrastructure\bin\Debug\controllers.pdb

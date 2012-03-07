@@ -3,3 +3,16 @@ C:\RBI\Employee-Test\controllers\bin\Debug\controllers.dll
 C:\RBI\Employee-Test\controllers\bin\Debug\controllers.pdb
 C:\RBI\Employee-Test\controllers\obj\Debug\controllers.dll
 C:\RBI\Employee-Test\controllers\obj\Debug\controllers.pdb
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\controllers.dll
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\controllers.pdb
+D:\Labs\MVC3\Employee-Test\controllers\obj\Debug\controllers.csprojResolveAssemblyReference.cache
+D:\Labs\MVC3\Employee-Test\controllers\obj\Debug\controllers.dll
+D:\Labs\MVC3\Employee-Test\controllers\obj\Debug\controllers.pdb
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\domain.dll
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\domain.pdb
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\FluentNHibernate.dll
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\NHibernate.dll
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\Iesi.Collections.dll
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\FluentNHibernate.pdb
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\NHibernate.xml
+D:\Labs\MVC3\Employee-Test\controllers\bin\Debug\Iesi.Collections.xml

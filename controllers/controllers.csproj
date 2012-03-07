@@ -45,10 +45,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccountController.cs" />
-    <Compile Include="HomeController.cs" />
+    <Compile Include="home\mappers\EmployeePageViewModelMapper.cs" />
+    <Compile Include="home\mappers\contracts\IEmployeePageViewModelMapper.cs" />
+    <Compile Include="home\contracts\IEmployeeTasks.cs" />
+    <Compile Include="home\viewmodels\EmployeePageViewModel.cs" />
+    <Compile Include="home\HomeController.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\domain\domain.csproj">
+      <Project>{EA0DFEFB-92DE-48CF-853C-8D073D198EF8}</Project>
+      <Name>domain %28domain\domain%29</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

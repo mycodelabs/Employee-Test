@@ -13,27 +13,48 @@
       <File id="EA0DFEFB-92DE-48CF-853C-8D073D198EF8/f:Employee.cs" caret="46" fromTop="2" />
       <File id="E642079B-9F98-4747-8E36-FD1D4CF8A031/f:Web.config" caret="618" fromTop="18" />
       <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="3262" fromTop="11" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:extensions/f:TestExtensions.cs" caret="560" fromTop="19" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:Models/f:EmployeePageViewModel.cs" caret="122" fromTop="6" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:home/d:mappers/d:contracts/f:IEmployeePageViewModelMapper.cs" caret="156" fromTop="6" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:home/d:contracts/f:IEmployeeTasks.cs" caret="183" fromTop="8" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:home/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="4E64BCAF-E4BE-491C-BEF3-60984FDF3911/f:EmployeeTasks.cs" caret="301" fromTop="13" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="462" fromTop="16" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:create_new_instance.cs" caret="155" fromTop="5" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:CreateInstances.cs" caret="72" fromTop="2" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:employee_tasks_spec.cs" caret="1091" fromTop="16" />
     </RecentFiles>
     <RecentEdits>
-      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/f:AccountController.cs" caret="375" fromTop="20" />
-      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/f:AccountController.cs" caret="13" fromTop="0" />
-      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/f:AccountController.cs" caret="542" fromTop="25" />
-      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:Models/f:AccountModels.cs" caret="0" fromTop="0" />
-      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:Models/f:AccountModels.cs" caret="2020" fromTop="63" />
-      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/f:AccountController.cs" caret="116" fromTop="5" />
-      <File id="EA0DFEFB-92DE-48CF-853C-8D073D198EF8/f:Employee.cs" caret="46" fromTop="2" />
-      <File id="E642079B-9F98-4747-8E36-FD1D4CF8A031/f:Web.config" caret="2273" fromTop="35" />
-      <File id="E642079B-9F98-4747-8E36-FD1D4CF8A031/f:Web.config" caret="338" fromTop="9" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="595" fromTop="12" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="861" fromTop="21" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="2010" fromTop="34" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="2327" fromTop="34" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="2657" fromTop="34" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="4051" fromTop="34" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="4051" fromTop="34" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="4051" fromTop="23" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="3370" fromTop="6" />
-      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Scripts/d:Post-Deployment/f:Script.PostDeployment.sql" caret="3123" fromTop="5" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:Models/f:EmployeePageViewModel.cs" caret="125" fromTop="8" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:Models/f:EmployeePageViewModel.cs" caret="0" fromTop="0" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="1820" fromTop="12" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="2292" fromTop="22" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="1869" fromTop="15" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="2248" fromTop="24" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="1628" fromTop="7" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="1259" fromTop="6" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="2292" fromTop="19" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:home/d:contracts/f:IEmployeeTasks.cs" caret="88" fromTop="3" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:home/d:mappers/d:contracts/f:IEmployeePageViewModelMapper.cs" caret="78" fromTop="3" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:home/f:HomeController.cs" caret="442" fromTop="16" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:home/f:HomeController.cs" caret="784" fromTop="14" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="295" fromTop="0" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="0" fromTop="0" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:home/f:HomeController.cs" caret="848" fromTop="19" />
+      <File id="9A396F49-F220-4BF6-9B95-473B2850066F/d:home/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="4E64BCAF-E4BE-491C-BEF3-60984FDF3911/f:EmployeeTasks.cs" caret="166" fromTop="5" />
+      <File id="4E64BCAF-E4BE-491C-BEF3-60984FDF3911/f:EmployeeTasks.cs" caret="212" fromTop="9" />
+      <File id="4E64BCAF-E4BE-491C-BEF3-60984FDF3911/f:EmployeeTasks.cs" caret="310" fromTop="13" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:controllers/f:home_controller_specs.cs" caret="463" fromTop="16" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:employee_tasks_spec.cs" caret="886" fromTop="7" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:employee_tasks_spec.cs" caret="1550" fromTop="17" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:employee_tasks_spec.cs" caret="1676" fromTop="23" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:employee_tasks_spec.cs" caret="1572" fromTop="21" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:create_new_instance.cs" caret="155" fromTop="11" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:create_new_instance.cs" caret="155" fromTop="5" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:CreateInstances.cs" caret="72" fromTop="2" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:employee_tasks_spec.cs" caret="570" fromTop="4" />
+      <File id="2392BCE8-5F54-4A10-9BF0-0C8685659982/d:tasks/f:employee_tasks_spec.cs" caret="1136" fromTop="16" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -47,4 +68,110 @@
     </NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="abstract" priority="1" />
+      <Item value="public" priority="12" />
+      <Item value="class" priority="6" />
+      <Item value="when_home_controller_is_asked_to_get_employess_concern`0" priority="0" />
+      <Item value="It`0" priority="3" />
+      <Item value="Because`0" priority="1" />
+      <Item value="sut" priority="1" />
+      <Item value="result" priority="3" />
+      <Item value="static" priority="5" />
+      <Item value="void" priority="3" />
+      <Item value="this" priority="2" />
+      <Item value="ActionResult`0" priority="1" />
+      <Item value="actionResult" priority="4" />
+      <Item value="ViewResult`0" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="viewResult" priority="1" />
+      <Item value="typeof" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="11" />
+      <Item value="pageViewModel" priority="1" />
+      <Item value="EmployeePageViewModel`0" priority="2" />
+      <Item value="ShouldEqual`1" priority="0" />
+      <Item value="Employees" priority="0" />
+      <Item value="ctor" priority="1" />
+      <Item value="Establish`0" priority="3" />
+      <Item value="depends" priority="3" />
+      <Item value="the_employee_tasks" priority="0" />
+      <Item value="the_employees" priority="4" />
+      <Item value="IEnumerable" priority="5" />
+      <Item value="Employee`0" priority="11" />
+      <Item value="Employee" priority="2" />
+      <Item value="as" priority="0" />
+      <Item value="the_page_view_model_mapper" priority="0" />
+      <Item value="the_page_view_model" priority="2" />
+      <Item value="EmployeePageViewModel" priority="0" />
+      <Item value="List" priority="2" />
+      <Item value="home" priority="0" />
+      <Item value="employeeTasks" priority="0" />
+      <Item value="employeePageViewModelMapper" priority="1" />
+      <Item value="employees" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="employee_tasks_concern`0" priority="0" />
+      <Item value="Result`0" priority="0" />
+      <Item value="the_employee_repository" priority="0" />
+      <Item value="delegate" priority="0" />
+      <Item value="item`0" priority="2" />
+      <Item value="items" priority="1" />
+      <Item value="item" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="create_new_instance" priority="2" />
+      <Item value="CreateInstances" priority="1" />
+      <Item value="createNewInstance" priority="0" />
+      <Item value="create_new_instance&lt;Employee&gt;" priority="0" />
+      <Item value="CreateInstances`0" priority="0" />
+      <Item value="instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:presentation.Controllers.HomeController">
+      <Item value="Index`0" priority="0" />
+      <Item value="employeeTasks" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewResult">
+      <Item value="ViewName" priority="0" />
+      <Item value="Model" priority="1" />
+      <Item value="ShouldHaveAModelOfType`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldBeEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ActionResult">
+      <Item value="ShouldBeAView`0" priority="1" />
+      <Item value="And`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ShouldBeOfType`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:developwithpassion.specifications.core.IProvideDependencies">
+      <Item value="on`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Machine.Fakes.IQueryOptions`1">
+      <Item value="Return`4" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:tests.IEmployeePageViewModelMapper">
+      <Item value="setup`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:controllers.EmployeePageViewModel">
+      <Item value="Employees" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:controllers.home.contracts.IEmployeeTasks">
+      <Item value="GetAll`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:controllers.home.mappers.contracts.IEmployeePageViewModelMapper">
+      <Item value="MapFrom`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ShouldEqual`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CreateInstances">
+      <Item value="instance`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:tests.tasks.create_new_instance`1">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

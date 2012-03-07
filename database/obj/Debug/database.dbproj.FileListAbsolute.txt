@@ -6,3 +6,11 @@ C:\RBI\Employee-Test\database\sql\debug\Employee_Script.PostDeployment.sql
 C:\RBI\Employee-Test\database\sql\debug\Employee_Database.sqlsettings
 C:\RBI\Employee-Test\database\sql\debug\Employee_Database.sqldeployment
 C:\RBI\Employee-Test\database\sql\debug\Employee_Database.sqlcmdvars
+D:\Labs\MVC3\Employee-Test\database\sql\debug\Employee_Script.PreDeployment.sql
+D:\Labs\MVC3\Employee-Test\database\sql\debug\Employee_Script.PostDeployment.sql
+D:\Labs\MVC3\Employee-Test\database\sql\debug\Employee_Database.sqlsettings
+D:\Labs\MVC3\Employee-Test\database\sql\debug\Employee_Database.sqldeployment
+D:\Labs\MVC3\Employee-Test\database\sql\debug\Employee_Database.sqlcmdvars
+D:\Labs\MVC3\Employee-Test\database\sql\debug\database.deploymanifest
+D:\Labs\MVC3\Employee-Test\database\sql\debug\database.dbschema
+D:\Labs\MVC3\Employee-Test\database\obj\Debug\database.dbschema

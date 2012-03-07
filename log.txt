@@ -1,0 +1,2 @@
+D:/Labs/MVC3/Employee-Test/solution/packages
+F, [2012-03-06T13:10:11.560892 #3188] FATAL -- : CSC Failed. See Build Log For Detail

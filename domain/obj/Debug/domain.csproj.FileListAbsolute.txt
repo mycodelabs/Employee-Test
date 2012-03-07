@@ -1,0 +1,11 @@
+D:\Labs\MVC3\Employee-Test\domain\bin\Debug\domain.dll
+D:\Labs\MVC3\Employee-Test\domain\bin\Debug\domain.pdb
+D:\Labs\MVC3\Employee-Test\domain\obj\Debug\domain.csprojResolveAssemblyReference.cache
+D:\Labs\MVC3\Employee-Test\domain\obj\Debug\domain.dll
+D:\Labs\MVC3\Employee-Test\domain\obj\Debug\domain.pdb
+D:\Labs\MVC3\Employee-Test\domain\bin\Debug\FluentNHibernate.dll
+D:\Labs\MVC3\Employee-Test\domain\bin\Debug\Iesi.Collections.dll
+D:\Labs\MVC3\Employee-Test\domain\bin\Debug\NHibernate.dll
+D:\Labs\MVC3\Employee-Test\domain\bin\Debug\FluentNHibernate.pdb
+D:\Labs\MVC3\Employee-Test\domain\bin\Debug\Iesi.Collections.xml
+D:\Labs\MVC3\Employee-Test\domain\bin\Debug\NHibernate.xml
