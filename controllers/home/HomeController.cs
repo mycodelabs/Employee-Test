@@ -14,7 +14,6 @@ namespace presentation.Controllers
             this.employeeTasks = employeeTasks;
             this.employeePageViewModelMapper = employeePageViewModelMapper;
         }
-
         public ActionResult Index()
         {
             var employees = this.employeeTasks.GetAll(); 

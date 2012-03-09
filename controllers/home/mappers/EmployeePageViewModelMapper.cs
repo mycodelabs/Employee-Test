@@ -16,7 +16,10 @@ namespace controllers.home.mappers
                                                                 {
                                                                     Id = employee.Id,
                                                                     Email = employee.Email,
-                                                                    JobTitle = employee.Title.Name,
+                                                                    JobTitle =
+                                                                        employee.Title != null
+                                                                            ? employee.Title.Name
+                                                                            : string.Empty,
                                                                     Name = employee.Name
                                                                 });
             }

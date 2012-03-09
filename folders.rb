@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+require './unique_files.rb'
 root_folder = File.expand_path(File.dirname(__FILE__))
 framework_location = "C:/Windows/Microsoft.NET/Framework64/"
 
@@ -8,9 +10,10 @@ Folders = {
 }
 
 Projects = [
-		File.join(Folders[:root],"domain"),
-		File.join(Folders[:root],"infrastructure"), 
-		File.join(Folders[:root],"controllers"), 
+		"domain",
+		"infrastructure",
+		"controllers",
+		"tasks"
 	   ]
 
 Files = {
@@ -27,4 +30,8 @@ Framework = {
 
 Compiler = {
 	:location => File.join(Framework[:version], "csc.exe")
+}
+
+References = {
+	:all => UniqueFiles.new(Dir.glob("referenced_assemblies/**/*.{dll,exe}")).all_files, 
 }

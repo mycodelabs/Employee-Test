@@ -36,3 +36,6 @@ D:\Labs\MVC3\Employee-Test\presentation\bin\infrastructure.dll
 D:\Labs\MVC3\Employee-Test\presentation\bin\tasks.dll
 D:\Labs\MVC3\Employee-Test\presentation\bin\infrastructure.pdb
 D:\Labs\MVC3\Employee-Test\presentation\bin\tasks.pdb
+D:\Labs\MVC3\Employee-Test\presentation\bin\Microsoft.Web.Mvc.dll
+D:\Labs\MVC3\Employee-Test\presentation\bin\MvcContrib.dll
+D:\Labs\MVC3\Employee-Test\presentation\bin\MvcContrib.xml

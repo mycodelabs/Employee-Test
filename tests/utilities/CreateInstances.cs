@@ -6,7 +6,7 @@ namespace tests.utilities
     {
         public static IList<item> instance<item>(IEnumerable<item> items) where item : new()
         {
-            return new List<item> {new item()};
+            return new List<item>();
         }
     }
 }

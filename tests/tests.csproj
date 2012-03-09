@@ -63,6 +63,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="extensions\TestExtensions.cs" />
     <Compile Include="tasks\employee_tasks_spec.cs" />
+    <Compile Include="utilities\CollectionUtilities.cs" />
     <Compile Include="utilities\CreateInstances.cs" />
     <Compile Include="utilities\create_new_instance.cs" />
     <Compile Include="utilities\utils.cs" />

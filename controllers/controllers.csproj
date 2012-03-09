@@ -44,13 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccountController.cs" />
+    <Compile Include="account\AccountController.cs" />
+    <Compile Include="account\models\ChangePasswordModel.cs" />
+    <Compile Include="account\models\LogOnModel.cs" />
+    <Compile Include="account\models\RegisterModel.cs" />
     <Compile Include="home\mappers\EmployeePageViewModelMapper.cs" />
     <Compile Include="home\mappers\contracts\IEmployeePageViewModelMapper.cs" />
     <Compile Include="home\contracts\IEmployeeTasks.cs" />
     <Compile Include="home\viewmodels\EmployeePageViewModel.cs" />
     <Compile Include="home\HomeController.cs" />
-    <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="home\viewmodels\SummaryEmployeeViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

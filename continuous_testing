@@ -1,0 +1,29 @@
+#!/usr/bin/env ruby
+require "rb-fchange"
+require "./folders.rb"
+require "./monitor.rb"
+require "albacore"
+
+Projects.each do |project|
+	 notifier = FChange::Notifier.new
+	 notifier.watch(File.join(Folders[:root], "#{project}"), :all_events, :recursive) do |event|
+	 p "A file in #{project} is changed"
+	 #monitor = Monitor.new
+	 error_pattern = /error|FAIL/
+	 errors = `rake`
+	  error_pattern = /error|FAIL/
+	 output = errors.split("\n").select{|item| error_pattern =~ item}
+	 build_message = BuildMessage.new(output)
+	 `"D:/Labs/MVC3/Employee-Test/build/tools/growl/growlnotify.exe \"#{build_message.message}\""`
+  end
+
+  Signal.trap('INT') do
+    p "Bye bye...",
+    notifier.stop
+    abort("\n")
+  end
+
+  notifier.run
+end
+
+

@@ -31,9 +31,11 @@ namespace tests
             private Establish c = () =>
                                       {
                                           the_employees = the_employees.create_instance();
+                                          the_employees.Add(new Employee(), new Employee(), new Employee());
                                           the_employee_tasks = depends.on<IEmployeeTasks>();
-                                          the_page_view_model = new EmployeePageViewModel
-                                                                    {SummaryEmployeeViewModels = the_employee_summary_view_model.create_instance()};
+                                          the_page_view_model = new EmployeePageViewModel();
+                                          the_page_view_model.SummaryEmployeeViewModels    =  the_employee_summary_view_model.create_instance();
+                                          the_page_view_model.SummaryEmployeeViewModels.Add(new SummaryEmployeeViewModel(), new SummaryEmployeeViewModel());
                                           the_employee_tasks.setup(x => x.GetAll()).Return(the_employees);
                                           the_page_view_model_mapper = depends.on<IEmployeePageViewModelMapper>();
                                           the_page_view_model_mapper.setup(x => x.MapFrom(the_employees)).Return(the_page_view_model);

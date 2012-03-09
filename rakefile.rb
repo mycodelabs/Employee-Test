@@ -7,8 +7,9 @@ task :default => [:setup,:compile]
 csc :compile do |csc|
 	Projects.each do |project|
 		csc.command = Compiler[:location] 
-		csc.compile FileList["#{project}/*.cs"]
-		csc.output = Files[:output] 
+		csc.compile FileList[File.join(Folders[:root],"#{project}/*.cs")]
+		csc.output = File.join(Folders[:outputdir], "#{project}.dll") 
 		csc.target = :library
+		csc.references = References[:all] 
 	end
 end

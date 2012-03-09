@@ -20,6 +20,7 @@ namespace infrastructure
                     return session.CreateCriteria(typeof (Employee)).List<Employee>().AsEnumerable();
                 }
             }
+
         }
     }
 }
